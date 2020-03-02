@@ -2,7 +2,7 @@ backend:
   name: github
   repo: COABI/COABI
   branch: master
-  site_domain: velotis.net
+  site_domain: https://coabi.github.io/COABI/
 
 media_folder: "images/uploads"
 
