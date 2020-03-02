@@ -5,7 +5,7 @@ backend:
   repo: https://github.com/COABI/COABI
   branch: master
 
-site_url: https://velotis.net
+site_url: https://eager-hoover-d501a3.netlify.com/
 publish_mode: editorial_workflow
 media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/images/uploads" 
