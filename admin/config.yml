@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: https://coabi.github.io/COABI/ 
+  repo: COABI/COABI
 
 
 media_folder: "images/uploads"
