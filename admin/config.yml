@@ -2,7 +2,7 @@ backend:
   name: github
   repo: COABI/COABI
   branch: master
-  site_domain: https://coabi.github.io/COABI/
+  site_domain: cms.netlify.com
 
 media_folder: "images/uploads"
 
