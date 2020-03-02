@@ -1,8 +1,7 @@
 backend:
   name: github
   repo: https://coabi.github.io/COABI/ 
-  branch: master
-  site_domain: https://my-oauth.netlify.com/
+
 
 media_folder: "images/uploads"
 
