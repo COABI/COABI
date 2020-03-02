@@ -2,7 +2,7 @@ backend:
   name: github
   repo: COABI/COABI
   branch: master
-  api_root: https://coabi.github.io/COABI/admin
+  api_root: https://api.netlify.com/auth/done
   site_domain: https://coabi.github.io/COABI/admin
   base_url: https://auth.server.url.com
 
