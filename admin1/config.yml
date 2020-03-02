@@ -5,7 +5,7 @@ media_folder: "images/uploads"
 
 collections:
  - label: "Pages"
-    label_singular: "Page"
+    label: "Page"
     name: pages
     folder: "_pages"
     create: true
